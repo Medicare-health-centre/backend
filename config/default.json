@@ -1,0 +1,17 @@
+{
+    "mongoURI": "mongodb+srv://root:root@cluster0.z3xtq16.mongodb.net/dev?retryWrites=true&w=majority",
+    "jwtSecret": "jwt-secret",
+    "organisation": "Medicare Health Centre",
+    "email": "medicarehealthcentre.btm@gmail.com",
+    "ccemail": "chandan@siano.in",
+    "bccemail": "chandan@siano.in",
+    "password": "dramonotdhixrjse",
+    "smsAPI": "smsAPI",
+    "whatsApp": "whatsApp",
+    "enableAuth": false,
+    "enablelogs": false,
+    "isProd": true,
+    "api": "api",
+    "razorpayUrl": "razorpayUrl",
+    "appointmentDuration": "30"
+}
